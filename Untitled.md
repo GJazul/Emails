@@ -16,6 +16,5 @@ Interested? Learn more about [CodePath](https://codepath.org/classes) and [sign 
 Looking forward to hearing from you soon,
 
 
-**Tim Lee**
-
+#### **Tim Lee**
 CodePath, Co-founder
